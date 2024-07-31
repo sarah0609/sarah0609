@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil ⭐
 
-<!--
-**sarah0609/sarah0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome é Sarah Angel 
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura] (htt://www.alura.com.br)
+- Estou aprendendo com a linguagem JavaScript
+- Estou usando este espaço para minha organização e comparilhamento de projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você entrar em contato comigo  📫
+
+- sarah.pinto@escola.pr.gov.br
+
+
+
+![](https://media1.tenor.com/m/pTDsZjYBnOQAAAAC/julio-pe%C3%B1a.gif)
